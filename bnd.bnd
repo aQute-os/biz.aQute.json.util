@@ -1,0 +1,4 @@
+-sources=true
+-conditionalpackage: aQute.lib*
+
+Export-Package: aQute.json.util
